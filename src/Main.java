@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class Main {
-    private static final int KEY = 200;
+    private static final int KEY = 28;
     
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
